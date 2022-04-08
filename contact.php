@@ -2,11 +2,11 @@
 
 // configure
 $from = 'Demo contact form <demo@domain.com>';
-$sendTo = 'hi@sonano.tech'; // Add Your Email
+$sendTo = 'hi@sonano.xyz'; // Add Your Email
 $subject = 'Hey 👋';
 $fields = array('name' => 'Name', 'subject' => 'Subject', 'email' => 'Email', 'message' => 'Message'); // array variable name => Text to appear in the email
 $okMessage = 'Bam. Done. You\'ll hear back from us shortly';
-$errorMessage = 'Look\'s like something went wrong - tweet us or drop us a line @ hi@sonano.tech';
+$errorMessage = 'Look\'s like something went wrong - tweet us or drop us a line @ hi@sonano.xyz';
 
 // let's do the sending
 
